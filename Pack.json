@@ -1,0 +1,9 @@
+{
+    "Name" : "Thorium Music+",
+    "Author" : "DivermanSam",
+    "Description" : "An addition to the base thorium music",
+    "Version": {
+        "major": "1",
+        "minor": "0"
+    }
+}
